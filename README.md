@@ -1,45 +1,31 @@
-#  About Me:
-I am mahmoud a Quality Assurance Specialist and Automation 
-Expert with a strong manual testing and automation foundation. 
+##  About Me:
+I am Mahmoud, a QA Specialist and Automation Expert with strong manual and automated testing skills.  
 
-With over 5 years of experience in digital marketing, my diverse background 
-allows me to combine technical expertise with a deep understanding of user needs and market trends.
+With 5+ years of experience in digital marketing, 
+I combine technical expertise with deep knowledge of user needs and market trends.  
 
-In my marketing career, I have gained extensive experience in:
+## Experience  
 
-Search Engine Optimization (SEO): Enhancing website visibility and driving organic traffic.
+#### Digital Marketing:  
+- **SEO:** Improving website visibility and organic traffic.  
+- **SEM:** Managing paid campaigns to maximize ROI.  
+- **Social Media:** Designing strategies to enhance engagement and results.  
 
-Search Engine Marketing (SEM): Managing paid advertising campaigns to maximize ROI.
+#### QA and Automation:  
+- **Test Cases:** Creating detailed test plans for software quality.  
+- **Bug Tracking:** Identifying, documenting, and fixing issues.  
+- **Regression Tests:** Ensuring stability after updates.  
+- **Automation Tools:** Using Selenium and Postman for testing.  
 
-Social Media Campaigns: Designing and implementing strategies to increase audience engagement and deliver measurable results.
+## Skills  
+- Digital marketing tools and strategies.  
+- Manual and automated testing processes.  
+- SQL databases and API integration.  
 
-Transitioning into Quality Assurance and Automation, I have developed expertise in:
+## Career Vision  
+I aim to use my marketing and QA expertise to support teams delivering high-quality software and user experiences.  
 
-Test Case Design: Creating detailed and comprehensive test plans to ensure software quality.
-
-Bug Reporting and Tracking: Identifying, documenting, and resolving issues efficiently.
-
-Regression Testing: Ensuring software stability after updates and fixes.
-
-Automation Testing: Implementing automated testing solutions using tools like Selenium and Postman to streamline testing processes.
-
-Skills & Tools
-
-Digital Marketing: SEO, SEM, social media strategy, and performance analysis.
-
-Quality Assurance & Automation: Manual and automation testing, test case creation, bug tracking, regression testing, and automation tools (Selenium, Postman).
-
-Familiarity with database tools like SQL and APIs.
-
-Career Vision
-
-I aim to leverage my extensive marketing experience and growing expertise in QA automation to contribute to innovative teams that prioritize delivering high-quality software and exceptional user experiences. 
-
-I am passionate about continuous learning and thrive in environments that foster collaboration and growth.
-
-Let’s Connect
-
-If you’re looking for a professional with a unique combination of digital marketing insights and QA automation expertise, let’s connect to explore potential opportunities for collaboration.
+Let’s connect to explore potential collaborations.  
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mamobarjos)[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mamobarjos)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mamobarjos)[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mamobarjos) 
