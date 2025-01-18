@@ -1,7 +1,9 @@
 #  About Me:
-I am mahmoud a Quality Assurance Specialist and Automation Expert with a strong manual testing and automation foundation. 
+I am mahmoud a Quality Assurance Specialist and Automation 
+Expert with a strong manual testing and automation foundation. 
 
-With over 5 years of experience in digital marketing, my diverse background allows me to combine technical expertise with a deep understanding of user needs and market trends.
+With over 5 years of experience in digital marketing, my diverse background 
+allows me to combine technical expertise with a deep understanding of user needs and market trends.
 
 In my marketing career, I have gained extensive experience in:
 
