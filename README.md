@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <code>STATUS: 200 OK</code> • <code>REGION: me-amman-1</code> • <code>UPTIME: since 2020</code>
+  <code>STATUS: 200 OK</code> • <code>REGION: me-amman-1</code> • <code>UPTIME: since 2022</code>
 </p>
 
 ---
