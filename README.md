@@ -1,3 +1,12 @@
+<div align="center">
+  <img src="terminal.svg" alt="Mahmoud Terminal" width="100%" />
+</div>
+
+<p align="center">
+  <code>STATUS: 200 OK</code> • <code>REGION: me-amman-1</code> • <code>UPTIME: since 2020</code>
+</p>
+
+---
 ## About Me
 I am Mahmoud, a Systems Architect and Lead Full Stack Developer currently specializing in Finance and Financial Technology (FinTech).
 
