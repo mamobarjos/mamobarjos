@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="240" viewBox="0 0 800 240">
+  <defs>
+    <linearGradient id="fintechGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f0ff" />
+      <stop offset="50%" stop-color="#00e676" />
+      <stop offset="100%" stop-color="#00f0ff" />
+    </linearGradient>
+    <style>
+      .bg { fill: #050b14; rx: 4px; stroke: #1a2736; stroke-width: 2px; }
+      .sys-text { fill: #4a6b8c; font-family: 'Courier New', monospace; font-size: 14px; font-weight: bold; }
+      .status-ok { fill: #00e676; font-family: 'Courier New', monospace; font-size: 14px; }
+      .dot { fill: #00e676; animation: pulse 1.5s infinite; }
+      .prompt { fill: #00f0ff; font-family: 'Courier New', monospace; font-size: 24px; font-weight: bold; }
+      .typing { fill: #e2f1ff; font-family: 'Courier New', monospace; font-size: 24px; text-shadow: 0 0 5px rgba(226, 241, 255, 0.3); }
+      .cursor { fill: #00f0ff; font-family: 'Courier New', monospace; font-size: 24px; animation: blink 1s step-end infinite; }
+      .log { fill: #2c445e; font-family: 'Courier New', monospace; font-size: 14px; }
+      @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+      @keyframes pulse { 0% { opacity: 1; } 50% { opacity: 0.3; } 100% { opacity: 1; } }
+    </style>
+  </defs>
+
+  <rect class="bg" width="796" height="236" x="2" y="2" />
+  
+  <!-- Top Bar: Trading/Server Node Style -->
+  <rect x="2" y="2" width="796" height="35" fill="#0a121e" rx="4" />
+  <text x="20" y="24" class="sys-text">FINTECH_NODE // AMMAN_JO</text>
+  <text x="400" y="24" class="sys-text" text-anchor="middle">MAHMOUD_BARJOUS</text>
+  <text x="680" y="24" class="status-ok">MARKET: LIVE</text>
+  <circle cx="770" cy="19" r="5" class="dot" />
+  
+  <!-- System Logs (Static) -->
+  <text x="30" y="70" class="log">[sys] Secure connection established... OK</text>
+  <text x="30" y="95" class="log">[sys] Loading algorithmic pipelines... OK</text>
+  <text x="30" y="120" class="log">[sys] Bypassing manual operations... AUTOMATION_ACTIVE</text>
+  
+  <!-- Active Typing Line -->
+  <text x="30" y="165" class="prompt">&gt;</text>
+  
+  <g>
+    <clipPath id="type-clip">
+      <rect x="55" y="140" height="35" width="0">
+        <animate attributeName="width" from="0" to="650" dur="2.5s" fill="freeze" begin="0.5s" />
+      </rect>
+    </clipPath>
+    <text x="55" y="165" class="typing" clip-path="url(#type-clip)">Deploying FinTech Architecture</text>
+    
+    <text x="55" y="165" class="cursor">
+      <animate attributeName="x" from="55" to="490" dur="2.5s" fill="freeze" begin="0.5s" />
+      _
+    </text>
+  </g>
+  
+  <!-- Bottom Status Bar -->
+  <text x="30" y="215" class="sys-text">CORE_STACK:</text>
+  <text x="130" y="215" class="status-ok">Python · n8n · Docker · GLM · FFmpeg</text>
+  
+  <text x="770" y="215" class="sys-text" text-anchor="end">LATENCY: 1.2ms</text>
+  
+  <!-- Bottom Gradient Line -->
+  <rect x="2" y="234" width="796" height="4" fill="url(#fintechGrad)" />
+</svg>
