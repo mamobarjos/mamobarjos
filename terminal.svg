@@ -27,7 +27,7 @@
   <!-- Top Bar -->
   <rect x="2" y="2" width="796" height="35" fill="#0a121e" rx="4" />
   <text x="20" y="24" class="sys-text">CORE // AMMAN_JO [MODULYNX_NODE]</text>
-  <text x="400" y="24" class="sys-text" text-anchor="middle">MAHMOUD BARJOUS - Founder @Modulynx</text>
+  <text x="460" y="24" class="sys-text" text-anchor="middle">MAHMOUD BARJOUS - Founder @Modulynx</text>
   
   <!-- Network Status -->
   <text x="740" y="24" class="status-ok" text-anchor="end">NETWORK: SECURE</text>
