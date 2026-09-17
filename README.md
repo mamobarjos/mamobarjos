@@ -8,7 +8,7 @@
 
 ---
 ## About Me
-I am Mahmoud, a Systems Architect and Lead Full Stack Developer currently specializing in Finance and Financial Technology (FinTech).
+I am Mahmoud, a Systems Architect and Lead Full Stack Developer currently specializing in Finance and Financial Technology.
 
 As the Founder of Modulynx, I bridge the gap between complex financial operations and robust system engineering. My focus is on delivering production-ready investment and e-commerce platforms, utilizing fully automated pipelines and integrating advanced cloud-based generative AI technologies.
 
